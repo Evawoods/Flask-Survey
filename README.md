@@ -2,7 +2,7 @@
 
 Flask Tools Survey
 
-*A survery application that asks the user to answer quesions from a survey. The questionnaire only allows one question per page allowing the user to move forward once hitting submit.*
+*A survey application that asks the user to answer quesions from a survey. The questionnaire only allows one question per page allowing the user to move forward once hitting submit.*
 
 Contains:
 - Templates folder with
